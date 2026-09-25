@@ -27,10 +27,10 @@ All of these live in [**construction-legal-ai-suite**](https://github.com/gopalg
 
 ## 🧰 Tech stack
 
-**AI and ML:** Python · PyTorch · scikit-learn · LangChain · LangGraph · RAG · vector databases · SHAP
-**Agents:** Microsoft Foundry · MCP · multi-agent orchestration · evaluation
-**Engineering:** FastAPI · Next.js · TypeScript · Docker · SQL
-**Cloud and MLOps:** AWS (S3, Glue, Athena, SageMaker, Lambda, Bedrock) · Azure · CI/CD · monitoring
+- **AI and ML:** Python · PyTorch · scikit-learn · LangChain · LangGraph · RAG · vector databases · SHAP
+- **Agents:** Microsoft Foundry · MCP · multi-agent orchestration · evaluation
+- **Engineering:** FastAPI · Next.js · TypeScript · Docker · SQL
+- **Cloud and MLOps:** AWS (S3, Glue, Athena, SageMaker, Lambda, Bedrock) · Azure · CI/CD · monitoring
 
 ## 🎓 Credentials
 
