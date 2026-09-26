@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Maddipalli Gopalakrishna: agentic AI that protects construction payment rights. A blueprint whose joints become AI agents feeding a work order, research, evidence, Notice to Owner, lien or bond, payment secured workflow." width="100%">
+  <img src="assets/banner.svg" alt="Building Governed Intelligence: construction blueprints, lien waivers and work orders flow through an MCP retrieval tool and agent router to legal-intelligence and payment-risk agents, producing a payment protection report and compliance verification, with human review and approval." width="100%">
 </p>
 
 <p align="center">
