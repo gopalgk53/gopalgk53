@@ -117,8 +117,8 @@ text{font-family:"IX","Inter","Segoe UI",Helvetica,Arial,sans-serif}
 <circle class="router-halo" cx="820" cy="222" r="58"/>
 <polygon class="hex" points="850,222 835.0,247.98 805.0,247.98 790,222 805.0,196.02 835.0,196.02"/>
 <path d="M810,222 h20 M820,212 v20" stroke="#bae6fd" stroke-width="2" stroke-linecap="round" transform="rotate(45 820 222)"/>
-<text class="nlabel" x="820" y="272" text-anchor="middle">LangGraph Router</text>
-<text class="nsub m" x="820" y="286" text-anchor="middle">deterministic control</text>
+<text class="nlabel" x="820" y="272" text-anchor="middle">Agent Router</text>
+<text class="nsub m" x="820" y="286" text-anchor="middle">LangGraph · Foundry</text>
 
 <g class="agent"><circle cx="968" cy="150" r="26" class="ah"/><circle cx="968" cy="150" r="12" class="ac"/><circle cx="968" cy="150" r="4" fill="#7dd3fc"/><text class="nlabel" x="968" y="120" text-anchor="middle">Agent 1: Legal Intelligence</text><text class="nsub" x="968" y="134" text-anchor="middle">NTO · LIEN · CONTRACTS</text></g>
 <g class="agent"><circle cx="968" cy="290" r="26" class="ah"/><circle cx="968" cy="290" r="12" class="ac"/><circle cx="968" cy="290" r="4" fill="#7dd3fc"/><text class="nlabel" x="968" y="328" text-anchor="middle">Agent 2: Payment-Risk</text><text class="nsub" x="968" y="342" text-anchor="middle">EXPLAINABLE ML</text></g>

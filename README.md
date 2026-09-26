@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/banner-governed-intelligence.svg" alt="Building Governed Intelligence: construction blueprints, lien waivers and work orders flow through an MCP retrieval tool and agent router to legal-intelligence and payment-risk agents, producing a payment protection report and compliance verification, with human review and approval." width="100%">
+  <img src="assets/banner-governed-intelligence-v2.svg" alt="Building Governed Intelligence: construction blueprints, lien waivers and work orders flow through an MCP retrieval tool and agent router to legal-intelligence and payment-risk agents, producing a payment protection report and compliance verification, with human review and approval." width="100%">
 </p>
 
 <p align="center">
