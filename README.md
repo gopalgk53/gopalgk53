@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Maddipalli%20Gopalakrishna&fontSize=46&fontColor=e6edf3&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Domain-Grounded%20Systems&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" alt="Maddipalli Gopalakrishna: AI/ML Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Maddipalli Gopalakrishna: agentic AI that protects construction payment rights. A blueprint whose joints become AI agents feeding a work order, research, evidence, Notice to Owner, lien or bond, payment secured workflow." width="100%">
 </p>
 
 <p align="center">
@@ -36,9 +36,6 @@ That background shapes how I build. I know where ambiguity, missing evidence and
 - **Escalate, don't guess.** When documents conflict, the system routes the case to a human with the discrepancy spelled out, rather than inventing a resolution.
 - **Honest evaluation.** Labelled synthetic datasets, frozen versions, and mistakes corrected in the open rather than hidden.
 
-<p align="center">
-  <img src="assets/banner.png" alt="Agent workflow: intake, planner, research, evidence, RAG and MCP, human review" width="100%">
-</p>
 
 ## 🚀 Featured projects
 
